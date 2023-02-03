@@ -34,5 +34,5 @@ function getTimeRemaining(endtime) {
     var timeinterval = setInterval(updateClock, 1000);
   }
    
-  var deadline="February 03 2023 12:15:00 GMT+0300"; //timer
+  var deadline="February 03 2023 13:15:00 GMT+0300"; //timer
   initializeClock('countdown', deadline);
